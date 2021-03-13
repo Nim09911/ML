@@ -1,6 +1,6 @@
 # SVHN_Cropped Dataset
 
-**Test_acc on various model test runs** \
+*Test_acc on various model test runs* \
 * 25 epochs 0.9505 \
 * 30 epochs 0.9533 \
 * 50 epochs 0.9537 \
